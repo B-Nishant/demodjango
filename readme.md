@@ -1,6 +1,8 @@
 Files required to run project
 Git install  :https://git-scm.com/download/win
+
 Django 2.0.7 : pip install Django==2.0.7
+
 python 3.7   : https://www.python.org/downloads
 
 
