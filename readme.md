@@ -1,12 +1,13 @@
 Files required to run project
 
+Download and install 
+python 3.7   : https://www.python.org/downloads
+
 Git install  :https://git-scm.com/download/win
 
 Download django through command line
 
 Django 2.0.7 : pip install Django==2.0.7
-
-python 3.7   : https://www.python.org/downloads
 
 
 clone this repo using the command line : 
