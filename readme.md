@@ -14,7 +14,7 @@ clone this repo using the command line :
     git clone https://github.com/Nishu-B/demodjango.git
     
 
-To run project go to the root directory, That is where "Demodjango" is donloaded and run following command
+To run project go to the root directory, That is where "Demodjango" is downloaded and run following command
 
 ../demodjango/gentelella> python manage.py runserver
 
