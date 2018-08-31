@@ -1,6 +1,7 @@
 Files required to run project
 
-Download and install 
+Download and install:
+
 python 3.7   : https://www.python.org/downloads
 
 Git install  :https://git-scm.com/download/win
